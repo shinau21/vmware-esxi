@@ -39,6 +39,7 @@
 * [Getting Started](#getting-started)
   * [Requirements](#requirements)
   * [Installation](#installation)
+  * [Tutorial](#tutorial)
 * [Contributing](#contributing)
 * [License](#license)
 * [Contact](#contact)
@@ -91,6 +92,9 @@ Then install VMware PowerCLI and Open with administrator
 ```powershell
 .\vmware.ps1
 ```
+
+## Tutorial
+<iframe src="assets/vid/tutorial-customize.mp4" height="100%"></iframe>
 
 <!-- ROADMAP -->
 ## Roadmap
