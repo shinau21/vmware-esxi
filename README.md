@@ -94,7 +94,7 @@ Then install VMware PowerCLI and Open with administrator
 ```
 
 ## Tutorial
-<iframe src="assets/vid/tutorial-customize.mp4" height="100%"></iframe>
+<p align="center"><iframe src="assets/vid/tutorial-customize.mp4" height="100%"></iframe>
 
 <!-- ROADMAP -->
 ## Roadmap
